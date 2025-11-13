@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Multi-Tool",
+  "description": "An application showcasing multiple Gemini API capabilities: a chatbot for text generation, an image analyzer for multi-modal understanding, and a creative writing assistant with text-to-speech narration.",
+  "requestFramePermissions": []
+}
